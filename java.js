@@ -1,6 +1,7 @@
-// template_h5xk6ft
-// service_19mqubv
-// SxZAkz0gnMLtcL-GL
+function toggleContrast() {
+  document.body.classList.toggle("dark-theme")
+}
+
 
 function contact(event) {
   event.preventDefault();
